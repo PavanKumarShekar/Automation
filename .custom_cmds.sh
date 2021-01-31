@@ -1,0 +1,5 @@
+alias c="clear"
+alias md="mkdir $1"
+alias github="cd /Users/pavan/Documents/github"
+alias tcs="cd /Users/pavan/Documents/PAVAN/Work/TCS"
+alias p="cd /Users/pavan/Documents/Python"
